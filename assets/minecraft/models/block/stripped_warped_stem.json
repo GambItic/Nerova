@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/log_carnage",
+  "textures": {
+    "texture": "minecraft:block/log_carnage2"
+  }
+}

@@ -1,15 +1,12 @@
 {
-	"pack":{
-		"pack_format":55,
-		"description":{
-			"text":"Graphic resources only for 1.21.5+ version!",
-			"color":"#4cc6ff"
-		},
-  		"supported_formats": {
- 			"max_inclusive": 99,
-			"min_inclusive": 55
-    		}
-	},
-	"overlays":{
-	}
+  "pack": {
+    "pack_format": 75,
+    "description": {
+      "text": "Graphic resources only for 1.21.11+ version!",
+      "color": "#4cc6ff"
+    },
+
+    "min_format": 75,
+    "max_format": 99
+  }
 }

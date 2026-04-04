@@ -4,5 +4,11 @@
 		"sounds":[
 			"nerova:nerova_ambient"
 		]
+	},
+	"ambient.stars":{
+		"subtitle":"Observind The Stars, YD",
+		"sounds":[
+			"nerova:stars"
+		]
 	}
 }
