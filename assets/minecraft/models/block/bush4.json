@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:block/bush",
+  "parent": "minecraft:block/bush_model",
   "textures": {
     "texture": "minecraft:block/bush4"
   }
